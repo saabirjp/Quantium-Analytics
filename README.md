@@ -1,3 +1,4 @@
+## 1- Business Objective
 Quantium’s supermarket client seeks data-driven insights to inform their strategic plan for increasing chip sales revenue. Currently, the client lacks an in-depth understanding of customer behavior, making it challenging to design targeted marketing campaigns. 
 They have collected transaction data for one year (250k+ records) and asked Quantium to provide actionable insights including customer segments and campaign testing.
 
