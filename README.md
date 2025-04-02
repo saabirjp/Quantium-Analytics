@@ -11,8 +11,16 @@ These insights will enable the client to implement precise marketing strategies 
 ## 2 - Technical Highlights for Financial and Customer Overview
 SQL and Python were utilized for data cleaning - including removing duplicates and dealing with missing values and outliers. Feature Engineering was performed to better understand patterns and trends in the dataset. We established baseline metrics, analyzed MoM trend, store trend and product trends and customer distribution by lifestage and level.
 ![1](1.jpg)
+
+![2](2.jpg)
+
+![3](3.jpg)
+
+![4](4.jpg)
 ## 3 - RFM Segmentation
 RFM segmentation was conducted by calculating recency, frequency and monetary scores for each customer. These scores were used to create 8 customer segments (Champions, Potential Loyalists, Promising, New, About to Sleep, At Risk, Cannot Lose, Hibernating)
+
+![5](5.jpg)
 
 ## 4 - A/B Testing
 Client also wanted to evaluate the revenue impact of new store layout using 3 trial stores. Analytics process included selecting matched control stores, calculating performance lift with statistial testing. For control store selection, we created a similarity score by combining Pearson Correlation with a distance magnitude to identify the most similar control stores and used t-testing to assess statistical significance of results. 
