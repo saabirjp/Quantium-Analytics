@@ -10,7 +10,7 @@ These insights will enable the client to implement precise marketing strategies 
 
 ## 2 - Technical Highlights for Financial and Customer Overview
 SQL and Python were utilized for data cleaning - including removing duplicates and dealing with missing values and outliers. Feature Engineering was performed to better understand patterns and trends in the dataset. We established baseline metrics, analyzed MoM trend, store trend and product trends and customer distribution by lifestage and level.
-
+![1](1.jpg)
 ## 3 - RFM Segmentation
 RFM segmentation was conducted by calculating recency, frequency and monetary scores for each customer. These scores were used to create 8 customer segments (Champions, Potential Loyalists, Promising, New, About to Sleep, At Risk, Cannot Lose, Hibernating)
 
